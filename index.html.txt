@@ -1,0 +1,48 @@
+<DOCTYPE html>
+	<html>
+	<head>
+		<title>Icon Test</title>
+		<meta name="viewport" content="width=device-width">
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<div class="main-wrapper">
+			<header class="main-header">
+				<ul class="main-nav">
+					<li class="main-logo"><h1><a href="#">Layo Polska</a></h1></li>
+					<li><a href="#" data-icon="&#xe600;">Home</a></li>
+					<li><a href="#" data-icon="&#xe602;">About</a></li>
+					<li><a href="#" data-icon="&#xe603;">Products</a></li>
+					<li><a href="#" data-icon="&#xe601;">Contact</a></li>
+				</ul>
+			</header>
+			<div class="main-banner">
+				<h1>Import the easy way...</h1>
+				<p>Join us on a road to success, anytime, anywhere.</p>
+			</div>
+			<div class="content-row">
+				<div class="primary-content col">
+				<h3>Why us</h3>
+					<p>lorem ipsum sesrum bana peka lalalalla</p>
+						<p>Strip steak tenderloin kevin swine meatloaf capicola, doner beef turducken pancetta corned beef pork loin shoulder.</p>
+				<p>Pork filet mignon leberkas, tail swine venison pancetta turkey shoulder brisket chalkers likes hamburgers.</p>
+					</div>
+					<div class="secondary-content col">
+						<h3>Asia Countries are our speciality</h3>
+						<p>lorem ipsum sesrum bana peka lalalalla</p>
+						<hr>
+						<p>Strip steak tenderloin kevin swine meatloaf capicola, doner beef turducken pancetta corned beef pork loin shoulder.</p>
+				<hr>
+				<p>Pork filet mignon leberkas, tail swine venison pancetta turkey shoulder brisket chalkers likes hamburgers.</p>
+					</div>
+					<div class="extra-content col">
+						<h3>advertisement</h3>
+						<p>Strip steak tenderloin kevin swine meatloaf capicola, doner beef turducken pancetta corned beef pork loin shoulder.</p>
+				<p>Pork filet mignon leberkas, tail swine venison pancetta turkey shoulder brisket chalkers likes hamburgers.</p>
+			</div>
+			<footer class="main-footer">
+				<p>&copy;2014 Lukasz Buśk</p>
+				<p class="Velsu">Made by<a href="#">Velsu</a></p>
+			</footer>
+		</div>
